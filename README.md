@@ -3,7 +3,7 @@ The AI class of the gobang game is open to new solutions!
 
 The current game file consists of a picturesque pane drawing class based on javafx, a functioning application class, a Game AI, and an effective underlying logic functions to ensure the game plays fluently and errorlessly.
 
-New AI that has a rate of win > 0.5 competing the current AI will be upload and release as new game version.
+New AI that has a rate of win > 0.5 in 1000 rounds competing the current AI will be upload and release as new game version.
 
 Current Game AI: 
 
