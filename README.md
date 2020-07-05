@@ -7,6 +7,7 @@ New AI that has a rate of win > 0.5 in 1000 rounds competing the current AI will
 
 Current Game AI: 
 
+    contributed by ryeii
     Version 1.0, released on July 5th 2020, https://blog.csdn.net/weixin_41475710/article/details/82561131
 
 History Game AI: 
